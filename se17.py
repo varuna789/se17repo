@@ -7,3 +7,4 @@ print("Addition of x & y:",a)
 b = x - y
 print("Substraction of x & y:",b)
 print("Varun")
+print("Hii friends")
